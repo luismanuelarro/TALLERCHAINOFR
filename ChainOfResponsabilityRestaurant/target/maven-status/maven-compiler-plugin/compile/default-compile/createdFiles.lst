@@ -1,0 +1,10 @@
+co\edu\unicauca\cor\app\Main.class
+co\edu\unicauca\cor\domain\TypeEnum.class
+co\edu\unicauca\cor\domain\ClaimHandler.class
+co\edu\unicauca\cor\domain\LevelFour.class
+co\edu\unicauca\cor\infra\Utilities.class
+co\edu\unicauca\cor\domain\ClaimManager.class
+co\edu\unicauca\cor\domain\LevelThree.class
+co\edu\unicauca\cor\domain\Claim.class
+co\edu\unicauca\cor\domain\LevelTwo.class
+co\edu\unicauca\cor\domain\LevelOne.class
